@@ -18,7 +18,6 @@ export function PostPreview({
   coverImage,
   date,
   excerpt,
-  author,
   slug,
 }: Props) {
   return (
@@ -35,7 +34,6 @@ export function PostPreview({
         <DateFormatter dateString={date} />
       </div>
       <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-      <Avatar name={author.name} picture={author.picture} />
     </div>
   );
 }
