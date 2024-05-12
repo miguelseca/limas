@@ -1,5 +1,4 @@
 import Footer from "@/app/_components/footer";
-import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 
@@ -9,10 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: `Limas.`,
-  description: `Esta é a história do gato Limas`,
-  openGraph: {
-    images: [HOME_OG_IMAGE_URL],
-  },
+  description: `Esta é a história do gato Limas`
 };
 
 export default function RootLayout({
