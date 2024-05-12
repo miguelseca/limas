@@ -1,6 +1,6 @@
 ---
 title: "Sou o Limas e vim das margens do Mondego."
-excerpt: "Esta é a minha história. Sou o Limas e vim das margens do Mondego. Hntum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+excerpt: "Esta é a minha história. Sou o Limas e vim das margens do Mondego. Os meus humanos atuais encontraram-me, alimentaram-me e troxeram-me com eles."
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:

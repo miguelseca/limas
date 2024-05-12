@@ -1,13 +1,13 @@
 ---
-title: "E aqui estou em na cidade de Gaia."
-excerpt: "Agora tenho um lar com dois humanos grandes e dois pequenos, dois amigos gatos e uma amiga gata. Nem sempre nos damos bem mas, enfim, é assim a família."
-coverImage: "/assets/blog/preview/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+title: "Não é uma vida fácil."
+excerpt: "Bem, habituei-me bastante rápido. Os meus tutores queriam-me fechar dentro de um apartamento mas, obviamente, isso não era vida para mim..."
+coverImage: "/assets/blog/limas_fora_de_casa/cover.jpg"
+date: "2022-03-16T05:35:07.322Z"
 author:
   name: Joe Haddad
   picture: "/assets/blog/authors/joe.jpeg"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/blog/limas_fora_de_casa/cover.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.

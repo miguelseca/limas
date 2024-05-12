@@ -1,8 +1,8 @@
 ---
-title: "E aqui estou em na cidade de Gaia."
-excerpt: "Agora tenho um lar com dois humanos grandes e dois pequenos, dois amigos gatos e uma amiga gata. Nem sempre nos damos bem mas, enfim, é assim a família."
-coverImage: "/assets/blog/preview/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+title: "Limas e o passeio."
+excerpt: "De vez em quando tento levar a minha humana mais nova a dar um passeio mas ela ainda nao entende bem a dinâmica... Enfim, é preciso paciência."
+coverImage: "/assets/blog/limas_passeio/cover.jpg"
+date: "2022-03-16T05:35:07.322Z"
 author:
   name: Joe Haddad
   picture: "/assets/blog/authors/joe.jpeg"

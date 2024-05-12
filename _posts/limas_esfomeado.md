@@ -1,7 +1,7 @@
 ---
-title: "E aqui estou em na cidade de Gaia."
-excerpt: "Agora tenho um lar com dois humanos grandes e dois pequenos, dois amigos gatos e uma amiga gata. Nem sempre nos damos bem mas, enfim, é assim a família."
-coverImage: "/assets/blog/preview/cover.jpg"
+title: "Estava muito esfomeado."
+excerpt: "Quando me encontraram eu estava magrinho mas rapidamento pus os humanos a dar-me comida melhorzinha."
+coverImage: "/assets/blog/limas_esfomeado/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: Joe Haddad

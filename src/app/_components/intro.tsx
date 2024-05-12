@@ -9,7 +9,7 @@ export function Intro() {
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         A história de um gato amarelo com {" "}
         <a
-          href="https://nextjs.org/"
+          href="https://www.instagram.com/limas_seca?igsh=dnB5bnd1bG5neTY5"
           className="underline hover:text-blue-600 duration-200 transition-colors"
         >
           instagram
